@@ -1,1 +1,11 @@
 GIT Welcomes you My Lord
+
+$ git config --global user.name "Sarath"
+
+$ git config --global user.email "sarath_konuru@persistent.com"
+
+$ git config --list
+
+CHANGE 1 (It can be a big change)
+
+git add .
