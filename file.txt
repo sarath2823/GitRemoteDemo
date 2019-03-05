@@ -39,3 +39,8 @@ I am the other guy
 --> creating a new branch idea
 
 >>>>>>> idea
+
+
+
+
+changed while doing remote blah blah
