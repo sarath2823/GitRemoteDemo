@@ -33,4 +33,9 @@ $ git branch
 
 $ git checkout branchName
 
+<<<<<<< HEAD
 I am the other guy
+=======
+--> creating a new branch idea
+
+>>>>>>> idea
