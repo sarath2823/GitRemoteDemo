@@ -9,3 +9,7 @@ $ git config --list
 CHANGE 1 (It can be a big change)
 
 git add .
+
+CHANGE 2
+
+use git diff to compare and find the differences so that we can know what is new
