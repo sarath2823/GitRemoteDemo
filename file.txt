@@ -13,3 +13,17 @@ git add .
 CHANGE 2
 
 use git diff to compare and find the differences so that we can know what is new
+
+$ git log
+
+$ git log --oneline
+
+$ git log --oneline -2
+
+$ git log --since="MM/DD/YYYY"
+
+$ git log --until="03/05/2019" --oneline
+
+$ git log --author="Sarath" --oneline
+
+change 4
