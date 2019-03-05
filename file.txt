@@ -33,3 +33,5 @@ $ git branch
 
 $ git checkout branchName
 
+--> creating a new branch idea
+
